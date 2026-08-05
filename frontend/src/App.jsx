@@ -5,7 +5,7 @@ import TelemetryPanel from './components/TelemetryPanel';
 import { checkHealth, queryRAG, clearCache, listDocuments } from './api/ragApi';
 import { X, Info, CheckCircle, AlertTriangle, Database } from 'lucide-react';
 import KbPanel from './components/KbPanel';
-import './App.css';
+import './App.css'; 
 
 /**
  * Master Application Coordinator.
